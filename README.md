@@ -22,7 +22,7 @@ Como este é um projeto HTML/CSS estático, não há necessidade de instalação
 * `styles.css`: Arquivo CSS com os estilos da página.
 * `img/img-casal.png`: Imagem do casal.
 
-## Imagem da tela
+## Visualização do projeto
 ![Tela inicial](img/inicial-screen-wide.png)
 
 ## Contribuição
