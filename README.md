@@ -35,10 +35,16 @@ Se você deseja contribuir com este projeto, siga estas etapas:
 4.  Faça push para a branch (`git push origin feature/sua-feature`).
 5.  Abra um Pull Request.
 
-## Contato
-
-Se você tiver alguma dúvida ou sugestão, entre em contato comigo.
-
 ## Autor
 
 Wesley Henrique ®
+
+## Contato
+
+Se você tiver alguma oportunidade de trabalho ou gostaria de discutir este projeto, sinta-se à vontade para entrar em contato:
+
+* https://www.linkedin.com/in/henriquewesley/
+* whenfeof@gmail.com
+* https://wesleyhenriqueportifolio.vercel.app/
+
+Agradeço o seu interesse!
