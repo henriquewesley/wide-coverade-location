@@ -38,3 +38,7 @@ Se você deseja contribuir com este projeto, siga estas etapas:
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, entre em contato comigo.
+
+## Autor
+
+Wesley Henrique ®
